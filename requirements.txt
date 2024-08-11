@@ -1,0 +1,16 @@
+jupyter
+ipykernel
+langchain
+langgraph
+python-dotenv
+langchain_core
+langchain_google_vertexai
+pandas
+langchain_experimental
+tabulate
+pypdf
+langchain_chroma
+langchain_openai
+embedchain
+google-generativeai
+streamlit
